@@ -1,0 +1,12 @@
+.git/
+.vs/
+config.js
+.env
+.sln
+.njsproj
+.user
+node_modules
+gitaenobot.njsproj.user
+gitaenobot.njsproj
+linlin-web/
+.next
