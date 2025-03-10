@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <div className="py-20">
         <p className="text-3xl text-white font-semibold text-center">聯繫我</p>
-        <p className="text-xl text-white/50 font-normal text-center mb-5">>其他可以聯繫我的方式.</p>
+        <p className="text-xl text-white/50 font-normal text-center mb-5">其他可以聯繫我的方式.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
                       <a target="_blank" rel="norefferer" href="https://discord.com/users/1031852521993543711">
